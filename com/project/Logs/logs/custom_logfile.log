@@ -1,2 +1,6 @@
-2024-03-06 11:06:32,507 - INFO - Entering method 'TestExample.test_subtraction' with parameters: (10, 20)
-2024-03-06 11:06:33,599 - INFO - Exiting method 'TestExample.test_subtraction' with parameters: (10, 20), Result: -10
+2024-03-06 11:40:27,105 - INFO - Entering method 'TestExample.test_subtraction' with parameters: (10, 20)
+2024-03-06 11:40:27,619 - INFO - Exiting method 'TestExample.test_subtraction' with parameters: (10, 20), Result: -10
+2024-03-06 11:42:09,570 - INFO - Entering method 'TestExample.test_addition' with parameters: (10, 20)
+2024-03-06 11:42:09,571 - INFO - Exiting method 'TestExample.test_addition' with parameters: (10, 20), Result: 30
+2024-03-06 11:42:09,571 - INFO - Entering method 'TestExample.test_subtraction' with parameters: (10, 20)
+2024-03-06 11:42:09,571 - INFO - Exiting method 'TestExample.test_subtraction' with parameters: (10, 20), Result: -10

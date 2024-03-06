@@ -11,12 +11,12 @@ class CustomLogger:
     LOG_LEVELS = ["INFO"]
 
     @staticmethod
-    def get_instance(log_filename="logfile.log", max_file_size=300, backup_count=1):
+    def get_instance(log_filename="logfile.log", max_file_size=3000, backup_count=1):
         if not CustomLogger._instance:
             CustomLogger._instance = CustomLogger(log_filename, max_file_size, backup_count)
         return CustomLogger._instance
 
-    def __init__(self, log_filename="logfile.log", max_file_size=300, backup_count=1):
+    def __init__(self, log_filename="logfile.log", max_file_size=3000, backup_count=1):
         if CustomLogger._instance:
             raise Exception("This class is designed as a Singleton; obtain its instance using get_instance().")
         else:
@@ -71,4 +71,4 @@ class CustomLogger:
         return result
 
 # Set up the logger during module import
-custom_logger = CustomLogger.get_instance("custom_logfile.log", max_file_size=300, backup_count=30000)
+custom_logger = CustomLogger.get_instance("custom_logfile.log", max_file_size=3000, backup_count=30000)
