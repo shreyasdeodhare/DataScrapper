@@ -1,0 +1,4 @@
+2024-03-05 12:55:04,932 - INFO - Entering method 'Calculator.add' with level 'INFO': Adding numbers
+2024-03-05 12:55:04,961 - INFO - Exiting method 'Calculator.add' with level 'INFO': Adding numbers. Result: <generator object Calculator.add at 0x000001DB6DCF4580>
+2024-03-05 12:55:04,961 - INFO - Entering method 'Calculator.subtract' with level 'INFO': Subtracting numbers
+2024-03-05 12:55:04,961 - INFO - Exiting method 'Calculator.subtract' with level 'INFO': Subtracting numbers. Result: <generator object Calculator.subtract at 0x000001DB6DCF4580>

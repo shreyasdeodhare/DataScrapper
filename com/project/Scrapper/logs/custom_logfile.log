@@ -1,0 +1,9 @@
+2024-03-04 16:03:43,970 - INFO - Entering method 'Calculator.add' with level 'INFO': Performing operation
+2024-03-04 16:03:43,971 - INFO - Exiting method 'Calculator.add' with level 'INFO': Performing operation. Result: 8
+2024-03-04 16:03:43,971 - INFO - Entering method 'Calculator.subtract' with level 'INFO': Performing operation
+2024-03-04 16:03:43,972 - ERROR - Error in method 'Calculator.subtract': subtract() takes 2 positional arguments but 3 were given
+2024-03-04 16:49:42,987 - INFO - Entering static method 'Calculator.add' with level 'INFO': Performing operation
+2024-03-04 16:49:42,988 - INFO - Exiting static method 'Calculator.add' with level 'INFO': Performing operation. Result: 8
+2024-03-04 16:49:42,988 - INFO - Operation being performed in 'unknown_class.subtract': Performing operation
+2024-03-04 16:49:42,989 - INFO - Entering method 'unknown_class.subtract' with level 'INFO': Performing operation
+2024-03-04 16:49:42,989 - INFO - Exiting method 'unknown_class.subtract' with level 'INFO': Performing operation. Result: 6

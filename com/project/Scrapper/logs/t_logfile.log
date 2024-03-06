@@ -1,0 +1,10 @@
+2024-03-05 10:16:55,753 - INFO - Entering static method 'Calculator.add' with level 'INFO': Performing operation
+2024-03-05 10:16:55,754 - INFO - Exiting static method 'Calculator.add' with level 'INFO': Performing operation. Result: 8
+2024-03-05 10:16:55,754 - INFO - Operation being performed in 'unknown_class.subtract': Performing operation
+2024-03-05 10:16:55,754 - INFO - Entering method 'unknown_class.subtract' with level 'INFO': Performing operation
+2024-03-05 10:16:55,754 - INFO - Exiting method 'unknown_class.subtract' with level 'INFO': Performing operation. Result: 6
+2024-03-05 10:26:32,311 - INFO - Entering static method 'Calculator.add' with level 'INFO': Performing operation
+2024-03-05 10:26:32,393 - INFO - Exiting static method 'Calculator.add' with level 'INFO': Performing operation. Result: 8
+2024-03-05 10:26:32,393 - INFO - Operation being performed in 'unknown_class.subtract': Performing operation
+2024-03-05 10:26:32,393 - INFO - Entering method 'unknown_class.subtract' with level 'INFO': Performing operation
+2024-03-05 10:26:32,393 - INFO - Exiting method 'unknown_class.subtract' with level 'INFO': Performing operation. Result: 6

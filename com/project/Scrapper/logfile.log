@@ -1,0 +1,3 @@
+2024-03-05 10:43:17,064 - INFO - Entering method 'ExampleClass.example_method' with level 'INFO': Performing operation
+2024-03-05 10:43:17,066 - INFO - Processing value: 42
+2024-03-05 10:43:17,067 - ERROR - Error in method 'ExampleClass.example_method': division by zero

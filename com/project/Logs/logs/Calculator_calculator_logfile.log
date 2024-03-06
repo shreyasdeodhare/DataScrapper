@@ -1,0 +1,12 @@
+2024-03-05 11:56:03,505 - INFO - Entering method 'Calculator.add' with level 'INFO': Adding numbers
+2024-03-05 11:56:03,507 - INFO - Exiting method 'Calculator.add' with level 'INFO': Adding numbers. Result: 8
+2024-03-05 11:56:03,507 - INFO - Entering method 'Calculator.subtract' with level 'INFO': Subtracting numbers
+2024-03-05 11:56:03,507 - INFO - Exiting method 'Calculator.subtract' with level 'INFO': Subtracting numbers. Result: 6
+2024-03-05 11:57:01,901 - INFO - Entering method 'Calculator.add' with level 'INFO': Adding numbers
+2024-03-05 11:57:01,902 - INFO - Exiting method 'Calculator.add' with level 'INFO': Adding numbers. Result: 8
+2024-03-05 11:57:01,902 - INFO - Entering method 'Calculator.subtract' with level 'INFO': Subtracting numbers
+2024-03-05 11:57:01,903 - INFO - Exiting method 'Calculator.subtract' with level 'INFO': Subtracting numbers. Result: 6
+2024-03-05 11:57:07,743 - INFO - Entering method 'Calculator.add' with level 'INFO': Adding numbers
+2024-03-05 11:57:07,759 - INFO - Exiting method 'Calculator.add' with level 'INFO': Adding numbers. Result: 8
+2024-03-05 11:57:07,760 - INFO - Entering method 'Calculator.subtract' with level 'INFO': Subtracting numbers
+2024-03-05 11:57:07,761 - INFO - Exiting method 'Calculator.subtract' with level 'INFO': Subtracting numbers. Result: 6

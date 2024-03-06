@@ -1,0 +1,4 @@
+2024-03-05 11:57:01,904 - INFO - Entering method 'OtherClass.do_something' with level 'INFO': Doing something else
+2024-03-05 11:57:01,904 - INFO - Exiting method 'OtherClass.do_something' with level 'INFO': Doing something else. Result: Something done
+2024-03-05 11:57:07,761 - INFO - Entering method 'OtherClass.do_something' with level 'INFO': Doing something else
+2024-03-05 11:57:07,761 - INFO - Exiting method 'OtherClass.do_something' with level 'INFO': Doing something else. Result: Something done
