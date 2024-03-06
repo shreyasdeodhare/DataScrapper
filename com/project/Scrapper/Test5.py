@@ -11,9 +11,10 @@ class TestExample:
         """
         result = param1 + param2
         return result
+    @staticmethod
 
     @CustomLogger.log_around
-    def test_subtraction(self, param1, param2):
+    def test_subtraction(param1, param2):
         """
         Test subtraction functionality.
         """
