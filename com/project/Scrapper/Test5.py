@@ -1,6 +1,6 @@
 # test_example.py
 
-from com.project.Logger.Logger5 import CustomLogger
+from com.project.Logger.CustomLogger import CustomLogger
 
 class TestExample:
 
@@ -22,9 +22,7 @@ class TestExample:
         return result
 
 # Example usage:
-if __name__ == "__main__":
-    test_instance = TestExample()
 
-    # Call the decorated test methods
-    test_instance.test_addition(10, 20)
-    test_instance.test_subtraction(10, 20)
+
+
+

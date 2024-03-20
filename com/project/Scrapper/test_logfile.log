@@ -1,0 +1,4 @@
+2024-03-11 09:36:51,081 - WARNING - Warning: Method 'TestClass.method_with_self' does not contain 'self' parameter.
+2024-03-11 09:36:51,081 - INFO - Entering method 'TestClass.method_with_self' without 'self' with level 'INFO': Performing operation
+2024-03-11 09:36:51,081 - WARNING - Warning: Method 'type.method_without_self' does not contain 'self' parameter.
+2024-03-11 09:36:51,081 - INFO - Entering method 'type.method_without_self' without 'self' with level 'INFO': Performing operation

@@ -1,0 +1,8 @@
+url: "https://www.linkedin.com"
+data_points:
+  - title
+  - price
+  - description
+# Optional: Specify preferred LLM model
+model: "text-davinci-003"
+

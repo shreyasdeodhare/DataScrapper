@@ -1,0 +1,2 @@
+2024-03-06 11:02:26,357 - INFO - Entering method 'TestExample.test_subtraction' with parameters: (10, 20)
+2024-03-06 11:02:26,359 - INFO - Exiting method 'TestExample.test_subtraction' with parameters: (10, 20), Result: -10
